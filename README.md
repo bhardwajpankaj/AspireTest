@@ -60,3 +60,4 @@ expo start
 - Networking for request handling
 - store for store and reducer
 - screens folder that has all the screens and views
+# AspireTest
