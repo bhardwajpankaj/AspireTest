@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "AspireTest",
+    "slug": "AspireTest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/debitScreen/Logo.png",
+    "splash": {
+      "image": "./assets/debitScreen/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0C365A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.pankaj.aspiretest",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/debitScreen/Logo.png",
+        "backgroundColor": "#0C365A"
+      },
+      "package": "com.pankaj.aspiretest",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/debitScreen/Logo.png"
+    }
+  },
+  "name": "AspireTest"
+}
